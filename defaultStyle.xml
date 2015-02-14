@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<style>
+	<param id = "neighborType">cardinal</param>
+	<param id = "edgeType">Wrapped</param>
+	<param id = "probability">square</param>
+	<isOutline>True</isOutline>
+	<gridUnitShape>circle</gridUnitShape>
+	<nullColor>blue</nullColor>
+</style>

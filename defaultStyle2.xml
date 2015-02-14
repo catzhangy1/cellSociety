@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<style>
+	<param id = "neighborType">Diagonal</param>
+	<param id = "edgeType">Finite</param>
+	<param id = "shape">Square</param>
+	<isOutline>False</isOutline>
+	<gridUnitShape>circle</gridUnitShape>
+	<nullColor>white</nullColor>
+</style>
